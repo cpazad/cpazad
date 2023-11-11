@@ -1,4 +1,4 @@
-![I am a Web Developer](https://i.ibb.co/rwkrKHL/think-big.jpg)
+[I am a web developer](https://postimg.cc/YvR6Y4y5)
 ### Hi there 👋, my name is Azadur Rahman
 #### I am a Web Developer
 

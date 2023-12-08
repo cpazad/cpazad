@@ -26,4 +26,4 @@ Skills:  REACT / JS / HTML / CSS/ BootStrap / Tailwindcss /SASS / PHP / Laravel 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=cpazad)  
 
-![Profile views](https://gpvc.arturio.dev/cpazad)  
+"![Profile views](https://gpvc.arturio.dev/cpazad)"  
